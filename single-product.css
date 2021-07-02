@@ -1,0 +1,355 @@
+
+ @media only screen and (min-width: 20px) {
+    nav .continaer{width: 999px;}
+    header .continaer{width: 999px;}
+    .section-1  .continaer .part-1{    width: 1000px;}
+    .section-1 .continaer .part-3{width: 427px;}
+    .section-1 .continaer .part-4{left: 560px;width: 344px;}
+    .section-1 .continaer{    width: 895px;}
+    .section-1 .part-3{left: 538px;}
+    body hr{visibility: hidden;}
+    .section-2 .continaer{width: 985px;background-color: #f6f6f6; height: 572px;margin-top: -215px;}
+    .section-2 h2{margin-left: 180px;width: 285px;}
+    .section-3 .continaer{  width: 985px; margin-top: -155px;}
+    .section-3 .continaer h3{width: 170px;}
+    .section-3 .continaer h5{width: 220px;}
+    footer .continaer{ width: 1000px; height: 430px;}
+   footer .continaer .part-4{position: relative;left: 114px;width: 300px; } 
+ }
+
+
+   
+ 
+ @media only screen and (min-width: 768px) {
+    nav .continaer{width: 999px;}
+    header .continaer{width: 999px;}
+    .section-1 .continaer .part-3{width: 427px;}
+    .section-1 .continaer .part-4{left: 560px;width: 344px;}
+    .section-1 .continaer{    width: 895px;}
+    .section-1 .part-3{left: 538px;}
+    body hr{visibility: hidden;}
+    .section-2 .continaer{width: 985px;background-color: #f6f6f6; height: 572px;margin-top: -215px;}
+    .section-2 h2{margin-left: 180px;width: 285px;}
+    .section-3 .continaer{  width: 985px; margin-top: -155px;}
+    .section-3 .continaer h3{width: 170px;}
+    .section-3 .continaer h5{width: 220px;}
+    footer .continaer{ width: 1000px; height: 430px;}
+    footer .continaer .part-4{position: relative;left: 114px;width: 300px; } 
+ }
+ 
+   /*
+ @media only screen and (min-width: 1200px) {
+    nav .continaer{width: 1200px;}
+    header .continaer{width: 1200px;}
+    .section-1 .continaer .part-3{width: 427px;}
+    .section-1 .continaer .part-4{left: 560px;width: 344px;}
+    .section-1 .continaer{    width: 895px;}
+    .section-1 .part-3{left: 538px;}
+    body hr{visibility: hidden;}
+    .section-2 .continaer{width: 985px;background-color: #f6f6f6; height: 572px;margin-top: -215px;}
+    .section-2 h2{margin-left: 180px;width: 285px;}
+    .section-3 .continaer{  width: 985px; margin-top: -155px;}
+    .section-3 .continaer h3{width: 170px;}
+    .section-3 .continaer h5{width: 220px;}
+    footer .continaer{ width: 1000px; }
+   footer .continaer .part-4{position: relative;left: 114px;}
+    
+ }
+
+*/
+header .search{
+    width: 280px;
+    margin-top: 37px;
+    margin-left: 24px;
+      
+ }
+ header .title{
+    border: 2px solid #444;
+    width: 180px;
+    height: 37px;
+    margin-top: 61px;
+    margin-left: 117px;
+ 
+ }
+ header .title h1{
+    olor: rgb(66, 66, 66);
+    z-index: 1;
+    font-size: 25px;
+    margin-left: 11px;
+   
+ }
+ header hr{
+    margin-top: 29px;
+    width: 100%;
+ }
+                                     /*navbar*/
+ 
+ .navbar{
+    font-size: 14px;
+    font-family: revert;
+    margin-left: 271px;
+ }
+ 
+ .navbar a{
+     color: rgb(87, 87, 87);
+ }
+ .navbar a:hover{
+     color:rgb(63, 63, 185) ;
+ }
+     
+
+
+                                /*section-1*/
+.section-1{
+   
+    width: 100%;
+    height: 700px;
+    position: relative;
+
+}
+.section-1 .part-1{
+    margin-bottom: 90px;
+    top: 17px;
+    position: relative;
+    background-color: #f0f0f0;
+    height: 59px;
+}
+.section-1 .part-1 h5{
+    position: absolute;
+    top: 22px;
+    left: 29px;
+    font-size: 18px;
+    color: #9000ff;
+}
+
+.section-1 .part-2 img{
+    height: 308px;
+    position: relative;
+    left: 69px;
+    width: 449px;
+}
+.section-1 .part-3{
+    width: 45%;
+    height: 586px;
+    position: absolute;
+    top: 10px;
+
+}
+.section-1 .part-3 h3{
+    position: absolute;
+    right: 204px;
+    top: 157px;
+}
+
+.section-1 .part-3 p{
+    position: absolute;
+    top: 208px;
+    right: 12px;
+    width: 400px;
+    color: #655f5f;
+    font-size: 13px;
+
+}
+.section-1 #p-2{
+    position: absolute;
+    top: 290px;
+}
+.section-1 hr{
+    top: 635px;
+    position: absolute;
+    width: 100%;
+}
+.section-1 h2{
+    color: blueviolet;
+    position: absolute;
+    right: 311px;
+    bottom: 288px;
+    top: 362px;
+}
+.section-1 .part-4 {
+    position: absolute;
+    right: 112px;
+    top: 440px;
+    height: 90px;
+
+
+}
+.section-1 .part-4   .buy{
+    position: absolute;
+    top: 44px;
+    right: 212px;
+    width: 133px;
+    height: 43px;
+    font-family: revert;
+    color: white;
+    background-color: #794bb1;
+    font-size: 16px;
+    border: 0px solid;
+    transition: all 0.7s ease;
+    border-radius: 5px;
+}
+ .section-1 .part-4 .buy:hover{
+    background-color: #4c0e97;
+    color: white;
+    top: 40px;
+
+}
+                                /*section-4*/
+
+.section-2{
+    position: relative;
+    width: 95%;
+    height: 561px;
+    background-color: #f6f6f6;
+    top: 150px;
+    left: 13px;
+
+}
+
+.section-2 .part-1 .card p{
+    color: blueviolet;
+    text-align: center;
+    font-size: 19px;
+}
+.section-2 .part-1 .card h6{
+    text-align: center;
+    position: relative;
+    font-size: 14px;
+    color: #4444449c;
+    top: -12px;
+}
+.section-2 .part-1 .prise{
+    color: blueviolet;
+    text-align: center;
+    font-size: 15px;
+}
+.section-2 .part-1 {
+    width: 83%;
+    position: relative;
+    margin-bottom: 0px;
+    top: 28px;
+    height: 390px;
+    left: 25px;
+    display: flex;
+    bottom: 77px;
+}
+.section-2 .part-1 h2{
+    position: absolute;
+    text-align: center;
+    left: 41%;
+    top: 83px;
+    font-size: 22px;
+}
+.section-2 .part-1 .card{
+    width: 16.5rem;
+    height: 339px;
+    margin: 11px;
+    left: 59px;
+    top: 142px;
+    }
+    .section-2 h2{
+    position: absolute;
+    left: 18%;
+    top: 89px;
+    font-family: monospace;
+    font-size: 35px;
+    }
+                                        /*footer*/
+
+
+footer{
+    position: relative;
+    top: 56px;
+    width: 100%;
+ }
+ footer .part-1{
+    display: flex;
+    margin: 0;
+    position: absolute;
+    top: 140px;
+ }
+ footer .part-1 a{
+    text-decoration: none;
+    font-family: revert;
+    transition: all 0.7s ease;
+ }
+ footer .part-1 a:hover{
+    
+    font-size: 17px;
+ }
+ footer .part-1 .LINK{
+    display: grid;
+    margin-left: 40px;
+ }
+ 
+ footer .part-1 h6{
+    position: absolute;
+    top: -77px;
+    left: 32px;
+    color: black;
+    font-size: 20px;
+ }
+ 
+ footer .part-2{
+    position: relative;
+    left: 517px;
+    width: 48%;
+    top: 60px;
+ 
+ }
+ footer .part-2 h6{
+    font-size: 21px;
+    margin-bottom: 34px;
+ }
+ 
+ footer .part-2 img{
+    position: absolute;
+    height: 113px;
+ }
+ footer .part-2 a{
+    position: absolute;
+    top: 174px;
+    left: 15px;
+    font-size: 18px;
+ }
+ 
+ footer .part-3{
+    position: absolute;
+    margin-bottom: 0;
+    left: 783px;
+    top: 62px;
+ 
+ }
+ 
+ footer .part-3 h6{
+    margin-bottom: 33px;
+    font-size: 20px;
+ }
+ 
+ footer .part-3 p{
+    color: #0038ff;
+    margin-bottom: 6px;
+ 
+ }
+ footer .part-4{
+    width: 36%;
+    position: absolute;
+    right: 50px;
+    top: 310px;
+ 
+ 
+ }
+ footer .part-4 h5{
+    text-align: -webkit-center;
+    top: 10px;
+    margin-bottom: 20px;
+ }
+ #inputGroup-sizing-lg{
+    background-color: rgb(75, 75, 180);
+    color: white;
+ }
+ footer hr{
+    position: relative;
+    bottom: 430px;
+ 
+ }

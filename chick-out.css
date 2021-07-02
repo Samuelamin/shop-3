@@ -1,0 +1,447 @@
+
+ @media only screen and (max-width: 600px) {
+    header .continaer{width: 999px;}
+     .section-1 .continaer{width: 999px;}
+     .section-1 .continaer .part-2{width: 800px;}
+   
+     .section-2 .continaer .part-1{
+      position: relative;
+      width: 842px;
+      height: 898px;
+      left: 78px;
+      top: -12px;
+      }
+     .section-2 .continaer .part-2 {
+      top: 1016px;
+      width: 452px;
+      position: absolute;
+      left: 84px;
+     }
+     .section-2 .continaer .part-3 { top: 1020px;}
+     .section-2 .continaer .form-1{
+      position: relative;
+      top: 276px;
+      left: 80px;
+      width: 451px;
+     }
+     .section-2 .continaer  .buy{
+      position: relative;
+      top: 170px;
+      width: 350px;
+      left: 588px;
+  
+     }
+     footer .continaer{ width: 1000px; height: 430px;}
+     footer .continaer .part-4{position: relative;left: 114px;width: 300px; } 
+}
+
+@media only screen and (max-width: 900px) {
+   header .continaer{width: 999px;}
+    .section-1 .continaer{width: 999px;}
+    .section-1 .continaer .part-2{width: 800px;}
+  
+    .section-2 .continaer .part-1{
+     position: relative;
+     width: 842px;
+     height: 898px;
+     left: 78px;
+     top: -12px;
+     }
+    .section-2 .continaer .part-2 {
+     top: 1016px;
+     width: 452px;
+     position: absolute;
+     left: 84px;
+    }
+    .section-2 .continaer .part-3 { top: 1020px;}
+    .section-2 .continaer .form-1{
+     position: relative;
+     top: 276px;
+     left: 80px;
+     width: 451px;
+    }
+    .section-2 .continaer  .buy{
+     position: relative;
+     top: 170px;
+     width: 350px;
+     left: 588px;
+ 
+    }
+    footer .continaer{ width: 1000px; height: 430px;}
+    footer .continaer .part-4{position: relative;left: 114px;width: 300px; } 
+}
+ /* 
+
+@media only screen and (min-width: 768px) {
+  
+   header .continaer{width: 999px;}
+   .section-1 .continaer{ width: 1009px;}
+   body hr{visibility: hidden;}
+   .section-2 .continaer .table{width: 975px;left: 10px;}
+   .section-2 h2{margin-left: 180px;width: 285px;}
+   .section-3 .continaer .part-2{ position: absolute;left: 672px;width: 161px;}
+   .section-3 .continaer .part-1{    width: 572px;left: -94px;}
+   footer .continaer{ width: 1000px; }
+     footer .continaer .part-4{position: relative;left: 500px;}
+
+ 
+}*/
+ 
+                                /*header*/
+header .search{
+   width: 280px;
+   margin-top: 37px;
+   margin-left: 24px;
+       
+   }
+   header .title{
+   border: 2px solid #444;
+   width: 180px;
+   height: 37px;
+   margin-top: 61px;
+   margin-left: 117px;
+   
+   }
+   header .title h1{
+   olor: rgb(66, 66, 66);
+   z-index: 1;
+   font-size: 25px;
+   margin-left: 11px;
+   
+   }
+   header hr{
+   margin-top: 29px;
+   width: 100%;
+   }
+                                       /*navbar*/
+   
+   .navbar{
+   font-size: 14px;
+   font-family: revert;
+   margin-left: 271px;
+   }
+   
+   .navbar a{
+       color: rgb(87, 87, 87);
+   }
+   .navbar a:hover{
+       color:rgb(63, 63, 185) ;
+   }
+
+   
+                                   /*section-1*/
+   .section-1{
+     
+       width: 100%;
+       height: 95px;
+       position: relative;
+   
+   }
+   .section-1 .part-1{
+       margin-bottom: 90px;
+       
+       position: relative;
+       background-color: #f0f0f0;
+       height: 59px;
+   }
+   .section-1 .part-1 h5{
+       position: absolute;
+
+       left: 29px;
+       font-size: 18px;
+       color: #9000ff;
+   }
+
+
+                                /*section-1*/
+.section-1{
+   
+    width: 100%;
+    height: 282px;
+    position: relative;
+
+}
+.section-1 .part-1{
+    margin-bottom: 90px;
+    top: 17px;
+    position: relative;
+    background-color: #f0f0f0;
+    height: 59px;
+   
+}
+.section-1 .part-1 h5{
+    position: absolute;
+    top: 22px;
+    left: 29px;
+    font-size: 18px;
+    color: #9000ff;
+}
+.section-1 .part-2{
+    border: 2px solid #e0e0e0;
+    width: 84%;
+    height: 71px;
+    position: absolute;
+    left: 86px;
+    top: 141px;
+    border-radius: 8px;
+} 
+.section-1 .part-2 h5{
+    position: absolute;
+    font-size: 17px;
+    font-weight: 200;
+    top: 21px;
+    left: 14px;
+}
+                                /*section-2-part-1*/
+.section-2{
+    position: relative;
+    width: 53%;
+    top: 48px;
+    height: 900px;
+    left: 1px;
+}
+.section-2 .part-1{
+   width: 96%;
+   position: absolute;
+   right: 6px;
+   top: 25px;
+   border: 2px solid #e0e0e0;
+   border-radius: 5px;
+   height: 830px;
+}
+.section-2 .part-1 form{
+   position: absolute;
+   width: 83%;
+   left: 9%;
+   top: 96px;
+
+}
+.section-2 h3{
+   left: 0;
+   position: relative;
+   top: -37px;
+   font-family: none;
+}
+.section-2 #h3{
+   top: -11px;
+   left: 14px;
+}
+
+                                 /*section-2-part-2*/
+
+
+.section-2 .part-2{
+   position: absolute;
+    right: -455px;
+    top: 26px;
+    width: 84%;
+    border: 2px solid #e0e0e0;
+    height: 180px;
+
+}
+.section-2 .part-2 .input-group{
+   width: 88%;
+   position: absolute;
+   left: 12px;
+   top: 88px;
+}
+.section-2 .part-2 h3{
+   position: relative;
+   bottom: 52px;
+   font-family: none;
+}
+.section-2 .part-2 p{
+   position: absolute;
+   font-size: 13px;
+   font-family: inherit;
+   left: 15px;
+   top: 54px;
+}
+#inputGroup-sizing-lg-1{
+   background-color: rgb(75, 75, 180);
+   color: white;
+   border-radius: 6px;
+   position: relative;
+   right: 0;
+   left: 309px;
+   width: 119px;
+}
+                              /*section-2-part-3*/
+.section-2 .part-3{
+   top: 274px;
+    width: 406px;
+    position: absolute;
+    left: 568px;
+    height: 26%;
+    border: 2px solid #e0e0e0;
+    border-radius: 5px;
+    border-bottom: 0px;
+ }
+ .section-2 .part-3 .list-group{
+   border: 0px solid;
+    position: relative;
+    width: 77%;
+    left: 23px;
+    top: -31px;
+
+ }
+ .section-2 .part-3 span{
+    left: 187px;
+    position: relative;
+    color: #cb00ff;
+ }
+ .section-2 #subtotal{
+     left: 172px;
+ }
+ .section-2 #order{
+    left: 172px;
+}
+ .section-2 .part-2 h3{
+   left: 0;
+   position: relative;
+   top: -37px;
+   font-family: none;
+ }
+                         /*section-2-part-4*/
+ .section-2 .buy{
+   position: absolute;
+   right: -458px;
+   width: 80%;
+   height: 50px;
+   top: 800px;
+   font-family: revert;
+   color: white;
+   background-color: #794bb1;
+   font-size: 16px;
+   border: 0px solid;
+   transition: all 0.7s ease;
+   border-radius: 5px;
+
+}
+.section-2 .buy:hover{
+   background-color: #4c0e97;
+   color: white;
+   margin-top: 5px;
+}
+.section-2 .form-1{
+   position: relative;
+   border: 2px solid #e0e0e0;
+   border-radius: 2px;
+   width: 77%;
+   left: 564px;
+   top: 518px;
+   height: 49px;
+   margin-bottom: 13px;
+
+}
+.section-2 .form-1 a{
+   position: absolute;
+   top: 10px;
+   left: 13px;
+   font-family: fangsong;
+}
+
+
+
+
+
+
+                                          /*footer*/
+
+
+footer{
+   position: relative;
+   top: 56px;
+   width: 100%;
+}
+footer .part-1{
+   display: flex;
+   margin: 0;
+   position: absolute;
+   top: 140px;
+}
+footer .part-1 a{
+   text-decoration: none;
+   font-family: revert;
+   transition: all 0.7s ease;
+}
+footer .part-1 a:hover{
+   
+   font-size: 17px;
+}
+footer .part-1 .LINK{
+   display: grid;
+   margin-left: 40px;
+}
+
+footer .part-1 h6{
+   position: absolute;
+   top: -77px;
+   left: 32px;
+   color: black;
+   font-size: 20px;
+}
+
+footer .part-2{
+   position: relative;
+   left: 517px;
+   width: 48%;
+   top: 60px;
+
+}
+footer .part-2 h6{
+   font-size: 21px;
+   margin-bottom: 34px;
+}
+
+footer .part-2 img{
+   position: absolute;
+   height: 113px;
+}
+footer .part-2 a{
+   position: absolute;
+   top: 174px;
+   left: 15px;
+   font-size: 18px;
+}
+
+footer .part-3{
+   position: absolute;
+   margin-bottom: 0;
+   left: 783px;
+   top: 62px;
+
+}
+
+footer .part-3 h6{
+   margin-bottom: 33px;
+   font-size: 20px;
+}
+
+footer .part-3 p{
+   color: #0038ff;
+   margin-bottom: 6px;
+
+}
+footer .part-4{
+   width: 36%;
+   position: absolute;
+   right: 50px;
+   top: 310px;
+
+
+}
+footer .part-4 h5{
+   text-align: -webkit-center;
+   top: 10px;
+   margin-bottom: 20px;
+}
+#inputGroup-sizing-lg{
+   background-color: rgb(75, 75, 180);
+   color: white;
+}
+footer hr{
+   position: relative;
+   bottom: 430px;
+
+}

@@ -1,0 +1,407 @@
+@media only screen and (max-width: 600px) {
+   header .continaer{width: 110%;}
+   nav .continaer{width: 999px;}
+   .section-1 .continaer{    width: 895px;}
+   .section-1 .part-3{left: 538px;}
+   body hr{visibility: hidden;}
+   .section-1 .continaer .part-3 .custom-select{}
+   .section-2 .continaer .row{width: 1007px;}
+   .section-3 .continaer{  width: 985px; margin-top: -155px;}
+   .section-3 .continaer h3{width: 170px;}
+   .section-3 .continaer h5{width: 220px;}
+   footer .continaer{ width: 1000px; height: 430px;}
+   footer .continaer .part-4{position: relative;left: 114px;width: 300px; } 
+}
+@media only screen and (min-width: 20px) {
+   nav .continaer{width: 999px;}
+   header .continaer{width: 999px;}
+   .section-1 .continaer{    width: 895px;}
+   .section-1 .part-3{left: 538px;}
+   body hr{visibility: hidden;}
+   .section-2 .continaer .row{width: 1007px;}
+   .section-3 .continaer{  width: 985px; margin-top: -155px;}
+   .section-3 .continaer h3{width: 170px;}
+   .section-3 .continaer h5{width: 220px;}
+   footer .continaer{ width: 1000px; height: 430px;}
+   footer .continaer .part-4{position: relative;left: 114px;width: 300px; } 
+}
+@media only screen and (min-width: 768px) {
+   
+   nav .continaer{width: 999px;}
+   header .continaer{width: 999px;}
+   .section-1 .continaer{  width: 1007px;}
+.section-1 .part-3{left: 538px;}
+body hr{visibility: hidden;}
+.section-2 .continaer .row{width: 1007px;}
+.section-3 .continaer{  width: 985px; margin-top: -155px;}
+.section-3 .continaer h3{width: 170px;}
+.section-3 .continaer h5{width: 220px;}
+footer .continaer{ width: 1000px; height: 430px;}
+footer .continaer .part-4{position: relative;left: 114px;width: 300px; } 
+}
+
+  
+@media only screen and (min-width: 1200px) {
+   nav .continaer{width: 999px;}
+   header .continaer{width: 999px;}
+   
+   .section-1 .part-3{left: 538px;}
+   body hr{visibility: hidden;}
+   .section-2 .continaer .row{width: 1007px;}
+   .section-3 .continaer{  width: 985px; margin-top: -155px;}
+   .section-3 .continaer h3{width: 170px;}
+   .section-3 .continaer h5{width: 220px;}
+   footer .continaer{ width: 1000px; height: 430px;}
+   footer .continaer .part-4{position: relative;left: 114px;width: 300px; } 
+}
+
+header .search{
+   width: 280px;
+   margin-top: 37px;
+   margin-left: 24px;
+     
+}
+header .title{
+   border: 2px solid #444;
+   width: 180px;
+   height: 37px;
+   margin-top: 61px;
+   margin-left: 117px;
+
+}
+header .title h1{
+   olor: rgb(66, 66, 66);
+   z-index: 1;
+   font-size: 25px;
+   margin-left: 11px;
+  
+}
+header hr{
+   margin-top: 29px;
+   width: 100%;
+}
+                                    /*navbar*/
+
+.navbar{
+   font-size: 14px;
+   font-family: revert;
+   margin-left: 271px;
+}
+
+.navbar a{
+    color: rgb(87, 87, 87);
+}
+.navbar a:hover{
+    color:rgb(63, 63, 185) ;
+}
+    
+                                       /*section-1*/
+ 
+   .section-1{
+  
+      width: 100%;
+      height: 1294px;
+      position: relative;
+   }
+                                       /*section-1 part-1*/
+
+   .section-1 .part-1 {
+        margin-bottom: 90px;
+        top: 17px;
+        position: relative;
+        background-color: #f0f0f0;
+        height: 59px;
+ }
+    .section-1 .part-1 h5{
+        position: absolute;
+        top: 22px;
+        left: 29px;
+        font-size: 18px;
+        color: #9000ff;
+}
+.section-1 .part-1 h6{
+    position: absolute;
+    left: 285px;
+    top: 120px;
+    font-size: 17px;
+}
+
+                                        /*section-1 part-2*/
+
+   .section-1 .part-2 h2{
+    position: absolute;
+    text-align: center;
+    left: 41%;
+    top: 83px;
+    font-size: 22px;
+}
+.section-1 .part-2 .card{
+   width: 16.5rem;
+   height: 265px;
+   margin: 11px;
+   left: 49px;
+   top: 142px;
+ }
+ .section-1 .part-2 .card p{
+     color: blueviolet;
+     text-align: center;
+    font-size: 19px;
+ }
+ .section-1 .part-2 .card h6{
+    text-align: center;
+    position: relative;
+    font-size: 14px;
+    color: #4444449c;
+    top: -12px;
+ }
+ .section-1 .part-2 .prise{
+    color: blueviolet;
+    text-align: center;
+   font-size: 15px;
+ }
+ .section-1 .part-2 {
+   width: 69%;
+    position: relative;
+    margin-bottom: 0px;
+    height: 282px;
+    left: 250px;
+    display: flex;
+    bottom: 77px;
+
+}
+                                        /*section-1 part-3*/
+
+.section-1 .part-3 {
+   position: absolute;
+   top: 14px;
+   width: 100%;
+   left: 0px;
+   height: 162px;
+
+}
+.section-1 .part-3 h6{
+   left: 322px;
+    position: absolute;
+    top: 119px;
+    font-size: 20px;
+}
+.section-1 .part-3 .custom-select{
+   width: 94px;
+   position: relative;
+   left: 750px;
+   top: 110px;
+
+}
+.section-1 .part-3  #bottom-1{
+   width: 94px;
+   right: 153px;
+}
+.section-1 .part-3  #bottom-2{
+   right: 20px;
+   width: 126px;
+}
+                                        /*section-2*/
+.section-2{
+   position: absolute;
+   position: absolute;
+    top: 303px;
+}
+.section-2 .part-1 .card{
+   width: 14rem;
+    position: absolute;
+    left: 38px;
+}
+
+.section-2 .part-1 .card-title{
+   font-size: 14px;
+}
+.section-2 .part-1 .card-text{
+   font-size: 12px;
+    color: blueviolet;
+    font-family: sans-serif;
+}
+.section-2 .part-1 span{
+   color: black;
+   left: 169px;
+   position: absolute;
+}
+
+.section-2 .part-2 .card{
+   width: 14rem;
+   position: absolute;
+   left: 38px;
+   top: 177px;
+   height: 466px;
+}
+.section-2 .part-2 .card-title{
+   font-size: 15px;
+    left: 10px;
+    position: relative;
+}
+.section-2 .part-2 .size{
+   position: absolute;
+    top: 110px;
+    left: 38px;
+
+}
+.section-2 .part-2 .color{
+   position: absolute;
+   top: 248px;
+   left: 38px;
+
+
+}
+.section-2 .part-2 .form-check{
+   padding-left: 0px;
+  
+}
+                                        /*section-3*/
+                                     
+
+.section-3{
+   margin-top: 390px;
+    margin-left: 22px;
+}
+                                       
+.section-3 img{
+   height: 395px;
+   transition: all 0.6s ease;
+   }
+.section-3 img:hover{
+   transform: scale(1.1);
+   }
+ 
+.section-3 h3{
+   position: absolute;
+   z-index: 2;
+   color: rgb(0, 0, 0);
+   margin: -93px 81px 9px 14px;
+   } 
+
+.section-3 .row h4{
+   position: relative;
+   margin: -66px 40%;
+   z-index: 2;
+   color: black;
+   font-size: 36px;
+       
+   }
+   .section-3 .box{
+       margin-left: 33px;
+       padding: 0px;
+   }
+
+   .section-3 .img-zoom{
+       overflow: hidden;
+   }
+
+.section-3 h6{
+   position: absolute;
+   margin-left: 20px;
+   margin-top: -113px;
+   z-index: 2;
+   color: rgb(0, 0, 0);
+   } 
+.section-3 .col-lg-3{
+   max-width: 28%;
+}
+
+                                       /*footer*/
+
+
+footer{
+   position: relative;
+   top: 56px;
+   width: 100%;
+}
+footer .part-1{
+   display: flex;
+   margin: 0;
+   position: absolute;
+   top: 140px;
+}
+footer .part-1 a{
+   text-decoration: none;
+   font-family: revert;
+   transition: all 0.7s ease;
+}
+footer .part-1 a:hover{
+   
+   font-size: 17px;
+}
+footer .part-1 .LINK{
+   display: grid;
+   margin-left: 40px;
+}
+
+footer .part-1 h6{
+   position: absolute;
+   top: -77px;
+   left: 32px;
+   color: black;
+   font-size: 20px;
+}
+
+footer .part-2{
+   position: relative;
+   left: 517px;
+   width: 48%;
+   top: 60px;
+
+}
+footer .part-2 h6{
+   font-size: 21px;
+   margin-bottom: 34px;
+}
+
+footer .part-2 img{
+   position: absolute;
+   height: 113px;
+}
+footer .part-2 a{
+   position: absolute;
+   top: 174px;
+   left: 15px;
+   font-size: 18px;
+}
+
+footer .part-3{
+   position: absolute;
+   margin-bottom: 0;
+   left: 783px;
+   top: 62px;
+
+}
+
+footer .part-3 h6{
+   margin-bottom: 33px;
+   font-size: 20px;
+}
+
+footer .part-3 p{
+   color: #0038ff;
+   margin-bottom: 6px;
+
+}
+footer .part-4{
+   width: 36%;
+   position: absolute;
+   right: 50px;
+   top: 310px;
+
+
+}
+footer .part-4 h5{
+   text-align: -webkit-center;
+   top: 10px;
+   margin-bottom: 20px;
+}
+#inputGroup-sizing-lg{
+   background-color: rgb(75, 75, 180);
+   color: white;
+}
+footer hr{
+   position: relative;
+   bottom: 430px;
+
+}
